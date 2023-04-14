@@ -1,0 +1,61 @@
+.contenedor{
+    width: 100%;
+    height: 1400px;
+    background-color: aqua;
+}
+.encabezado{
+background-color: blue;
+width: 100%;
+height: 150px;
+font-size: 35px;
+text-align: center;
+color: blanchedalmond;
+font-family: Arial, Helvetica, sans-serif;
+}
+.menu{
+    background-color: chartreuse;
+    width: 100%;
+    height: 150px;
+    text-align: center;
+    font-size: 35px;
+    color: blueviolet;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    display: flex;
+}
+.contenedor2{
+    width: 20%;
+    height: 1200px;
+    background-color: brown;
+}
+.izquierda{
+    width: 20%;
+    height: 1200px;
+    background-color: coral;
+    background-image: url(Canis_lupus_265b.jpg);
+    background-repeat: no-repeat;
+}
+.centro{
+    width: 60%;
+    height: 1200px;
+    background-color: darkorange;
+    font-size: 25px;
+    text-align: center;
+    color: blanchedalmond;
+    font-family: Arial, Helvetica, sans-serif;
+    background-image: url(lobo);
+    background-repeat: no-repeat;
+}
+.derecha{
+    width: 20%;
+    height: 1200px;
+    background-color: yellow;
+    font-size: 25px;
+    text-align: center;
+    color: blanchedalmond;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.tecnologuia{
+    width: 120px;
+    height: 78px;
+    
+}
