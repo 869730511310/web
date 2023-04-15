@@ -7,7 +7,7 @@
 background-color: blue;
 width: 100%;
 height: 150px;
-font-size: 35px;
+font-size: 40px;
 text-align: center;
 color: blanchedalmond;
 font-family: Arial, Helvetica, sans-serif;
@@ -17,7 +17,7 @@ font-family: Arial, Helvetica, sans-serif;
     width: 100%;
     height: 150px;
     text-align: center;
-    font-size: 35px;
+    font-size: 14px;
     color: blueviolet;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     display: flex;
@@ -28,34 +28,61 @@ font-family: Arial, Helvetica, sans-serif;
     background-color: brown;
 }
 .izquierda{
-    width: 20%;
+    width: 33%;
     height: 1200px;
     background-color: coral;
-    background-image: url(Canis_lupus_265b.jpg);
-    background-repeat: no-repeat;
+    background-image: url(Frases20-336x442.jpg);
+    background-repeat: repeat-y;
 }
 .centro{
-    width: 60%;
+    width: 33%;
     height: 1200px;
     background-color: darkorange;
-    font-size: 25px;
+    font-size: 20px;
     text-align: center;
     color: blanchedalmond;
     font-family: Arial, Helvetica, sans-serif;
-    background-image: url(lobo);
-    background-repeat: no-repeat;
+    background-image: url(images.jpg);
+    background-repeat: repeat-y;
 }
 .derecha{
-    width: 20%;
+    width: 33%;
     height: 1200px;
     background-color: yellow;
     font-size: 25px;
     text-align: center;
     color: blanchedalmond;
     font-family: Arial, Helvetica, sans-serif;
+    background-image: url(la-foto.jpg);
+    background-repeat: repeat-y;
 }
 .tecnologuia{
     width: 120px;
     height: 78px;
-    
+    margin: 2px;
+    background-color: blueviolet;
+}
+.sociales{
+    width: 120px;
+    height: 78px;
+    margin: 2px;
+    background-color: blueviolet;
+}
+.ingles{
+    width: 120px;
+    height: 78px;
+    margin: 2px;
+    background-color: blueviolet;
+}
+.matematicas{
+    width: 120px;
+    height: 78px;
+    margin: 2px;
+    background-color: blueviolet;
+}
+.biologia{
+    width: 120px;
+    height: 78px;
+    margin: 2px;
+    background-color: blueviolet;
 }
