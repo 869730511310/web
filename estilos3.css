@@ -143,17 +143,19 @@
             
             float:left;
             
-            height: 210px;
+            height: 283px;
             
-            width: 270px;
+            width: 480px;
             
             margin-left: 5px;
             
             margin-right:5px;
             
-            background-image: url("");
+            background-image: url("imajenbiologia.jpeg");
             
-            }
+        
+        }
+
             
             
             
@@ -240,9 +242,9 @@
                     
                     float:left;
                     
-                    height: 800px;
+                    height: 200px;
                     
-                    width: 800px;
+                    width: 200px;
                     
                     margin-left: 10px;
                     
@@ -260,7 +262,7 @@
                     
                     color: rgb(245, 0, 224);
                     
-                    font-size: 20px;
+                    font-size: 40px;
                     
                     }
 
@@ -288,19 +290,49 @@
                         
                         float:left;
                         
-                        height: 200px;
+                        height: 405px;
                         
-                        width: 260px;
+                        width: 789px;
                         
                         margin-left: 5px;
                         
                         margin-right:5px;
                         
-                        background-image: url("");
+                        background-image: url("imajeingles.jpg");
                         
-                        }
+                      
+                    
+                    }
+
+                    .imajeningles2{
                         
+                         
                         
+                        background-repeat: no-repeat;
+                        
+                        float:left;
+                        
+                        height: 405px;
+                        
+                        width: 500px;
+                        
+                        margin-left: 5px;
+                        
+                        margin-right:5px;
+                        
+                        background-image: url("imajeningles2.webp");
+                        
+                    }
+
+
+
+
+
+
+
+
+
+
                         
                     .textoingles{
                         
@@ -338,15 +370,15 @@
                             
                             float:left;
                             
-                            height: 200px;
+                            height: 500px;
                             
-                            width: 260px;
+                            width: 570px;
                             
                             margin-left: 5px;
                             
                             margin-right:5px;
                             
-                            background-image: url("");
+                            background-image: url("imagentecnologia.jpg");
 
                             
                             }
