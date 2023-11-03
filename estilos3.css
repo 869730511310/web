@@ -404,16 +404,45 @@
                         
                     }
 
+                    .imajeningles7{
+                        
+                         
+                        
+                        background-repeat: no-repeat;
+                        
+                        float:left;
+                        
+                        height: 760px;
+                        
+                        width: 760px;
+                        
+                        margin-left: 1px;
+                        
+                        margin-right:1px;
+                        
+                        background-image: url("imajeningles7.png");
+                        
+                    }
 
-
-
-
-
-
-
-
-
-
+                    .imajeningles8{
+                        
+                         
+                        
+                        background-repeat: no-repeat;
+                        
+                        float:left;
+                        
+                        height: 605px;
+                        
+                        width: 605px;
+                        
+                        margin-left: 1px;
+                        
+                        margin-right:1px;
+                        
+                        background-image: url("imajeningles8.jpg");
+                        
+                    }
 
                         
                     .textoingles{
