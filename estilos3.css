@@ -13,7 +13,7 @@
     
     background-image: url("fondo.jpg");
     
-    background-repeat: no-repeat;
+    background-repeat: repeat;
     
     }
     
@@ -290,9 +290,9 @@
                         
                         float:left;
                         
-                        height: 405px;
+                        height: 403px;
                         
-                        width: 789px;
+                        width: 769px;
                         
                         margin-left: 5px;
                         
@@ -312,7 +312,7 @@
                         
                         float:left;
                         
-                        height: 405px;
+                        height: 320px;
                         
                         width: 500px;
                         
@@ -323,6 +323,88 @@
                         background-image: url("imajeningles2.webp");
                         
                     }
+
+                    .imajeningles3{
+                        
+                         
+                        
+                        background-repeat: no-repeat;
+                        
+                        float:left;
+                        
+                        height: 290px;
+                        
+                        width: 300px;
+                        
+                        margin-left: 5px;
+                        
+                        margin-right:5px;
+                        
+                        background-image: url("imajeningles3.jpg");
+                        
+                    }
+
+                    .imajeningles4{
+                        
+                         
+                        
+                        background-repeat: no-repeat;
+                        
+                        float:left;
+                        
+                        height: 514px;
+                        
+                        width: 843px;
+                        
+                        margin-left: 1px;
+                        
+                        margin-right:1px;
+                        
+                        background-image: url("imajeningles4.jpg");
+                        
+                    }
+
+                    .imajeningles5{
+                        
+                         
+                        
+                        background-repeat: no-repeat;
+                        
+                        float:left;
+                        
+                        height: 675px;
+                        
+                        width: 725px;
+                        
+                        margin-left: 1px;
+                        
+                        margin-right:1px;
+                        
+                        background-image: url("imajeningles5.jpg");
+                        
+                    }
+
+                    .imajeningles6{
+                        
+                         
+                        
+                        background-repeat: no-repeat;
+                        
+                        float:left;
+                        
+                        height: 330px;
+                        
+                        width: 725px;
+                        
+                        margin-left: 1px;
+                        
+                        margin-right:1px;
+                        
+                        background-image: url("imajeningles6.jpg");
+                        
+                    }
+
+
 
 
 
